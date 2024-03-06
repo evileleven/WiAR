@@ -29,7 +29,7 @@ We provide raw data received by the receiver. The details are shown in following
 
 02. ten volunteers participate in collecting activity data.
 
-03. csi_ai_j.dat represent the jth sample of the ith volunteer. 
+03. csi_ai_j.dat represent the jth sample of the ith activities. 
 
 **********************************************************************
 
